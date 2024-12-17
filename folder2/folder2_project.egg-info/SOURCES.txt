@@ -1,0 +1,7 @@
+pyproject.toml
+script2.py
+folder2_project.egg-info/PKG-INFO
+folder2_project.egg-info/SOURCES.txt
+folder2_project.egg-info/dependency_links.txt
+folder2_project.egg-info/requires.txt
+folder2_project.egg-info/top_level.txt

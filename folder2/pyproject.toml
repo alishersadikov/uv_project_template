@@ -1,0 +1,4 @@
+[project]
+name = "folder2-project"
+version = "0.1.0"
+dependencies = ["numpy"]
